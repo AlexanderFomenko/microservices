@@ -1,0 +1,4 @@
+prometheus:
+  image: hopbut/prometheus
+  ports:
+    - '9090:9090'
